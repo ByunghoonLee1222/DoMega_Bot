@@ -1,0 +1,15 @@
+C:\Users\UbICS\Desktop\jjjjjjjjjjjj\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\UbICS\Desktop\jjjjjjjjjjjj\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\UbICS\Desktop\jjjjjjjjjjjj\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\UbICS\Desktop\jjjjjjjjjjjj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\UbICS\Desktop\jjjjjjjjjjjj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\UbICS\Desktop\jjjjjjjjjjjj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\UbICS\Desktop\jjjjjjjjjjjj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\UbICS\Desktop\jjjjjjjjjjjj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\UbICS\Desktop\jjjjjjjjjjjj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ubics2\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ubics2\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ubics2\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\병훈_ubics\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\병훈_ubics\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\병훈_ubics\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
